@@ -26,17 +26,18 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 <img src="https://user-images.githubusercontent.com/45147475/101690462-5ddd3300-3a7e-11eb-89ef-84b0a7a30de5.PNG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690469-5fa6f680-3a7e-11eb-94b7-b1064253bdb7.PNG" width="45%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690479-6170ba00-3a7e-11eb-938c-29b0e6a3482a.PNG" width="45%"></img>
-<img src="https://user-images.githubusercontent.com/45147475/101690443-59187f00-3a7e-11eb-9321-1ffb457cb6ab.PNG" width="35%"></img><img src="https://user-images.githubusercontent.com/45147475/101283748-83074280-37ed-11eb-94ff-3a508a0413c0.png" width="45%"></img>
+<img src="https://user-images.githubusercontent.com/45147475/101690443-59187f00-3a7e-11eb-9321-1ffb457cb6ab.PNG" width="35%"></img>
+<img src="https://user-images.githubusercontent.com/45147475/101283748-83074280-37ed-11eb-94ff-3a508a0413c0.png" width="45%"></img>
 
 # Update December 2020 on Version 3  
 
-+Focus Mode on Live screen is now choose of User.
++Focus Mode on Live screen is now choose of User.  
 +Added Live Screen (MediaProjection API has been available since API Level 21, for more: https://developer.android.com/reference/android/media/projection/MediaProjection  
 +File Manager has been improvement.  
 +Fully English version.  
 +Now it is supporting 5 digits Port.  
 +Fixed English Flag issue.  
-+If device does not have any camera, you will see warning message.
++If device does not have any camera, you will see warning message.  
 +Added victim name and ip adress as title of control windows. Ex: Keylogger - Victim@192.168.2.78:7675  
 and other changes, fixing, improvents. :)
 
