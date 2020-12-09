@@ -31,7 +31,7 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 
 # Update December 2020 on Version 3  
 
-+Focus Mode on Live screen is now choose of User.  
++Focus Mode on Live Camera is now choose of User.  
 +Added Live Screen (MediaProjection API has been available since API Level 21, for more: https://developer.android.com/reference/android/media/projection/MediaProjection  
 +File Manager has been improvement.  
 +Fully English version.  
