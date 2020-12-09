@@ -22,11 +22,11 @@ Android 10    - OK
 
 AndroSpy Project aims to most powerful-stable-useful open source Android RAT.  
   
-<img src="https://user-images.githubusercontent.com/45147475/101690450-5b7ad900-3a7e-11eb-93ca-e4a954f938ff.PNG" width="35%"></img>
+<img src="https://user-images.githubusercontent.com/45147475/101690450-5b7ad900-3a7e-11eb-93ca-e4a954f938ff.PNG" width="55%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690462-5ddd3300-3a7e-11eb-89ef-84b0a7a30de5.PNG" width="55%"></img>
-<img src="https://user-images.githubusercontent.com/45147475/101690469-5fa6f680-3a7e-11eb-94b7-b1064253bdb7.PNG" width="35%"></img>
+<img src="https://user-images.githubusercontent.com/45147475/101690469-5fa6f680-3a7e-11eb-94b7-b1064253bdb7.PNG" width="55%"></img>
 <img src="https://user-images.githubusercontent.com/45147475/101690479-6170ba00-3a7e-11eb-938c-29b0e6a3482a.PNG" width="35%"></img>
-<img src="https://user-images.githubusercontent.com/45147475/101690443-59187f00-3a7e-11eb-9321-1ffb457cb6ab.PNG" width="35%"></img><img src="https://user-images.githubusercontent.com/45147475/101283748-83074280-37ed-11eb-94ff-3a508a0413c0.png" width="35%"></img>
+<img src="https://user-images.githubusercontent.com/45147475/101690443-59187f00-3a7e-11eb-9321-1ffb457cb6ab.PNG" width="35%"></img><img src="https://user-images.githubusercontent.com/45147475/101283748-83074280-37ed-11eb-94ff-3a508a0413c0.png" width="55%"></img>
 
 # Update December 2020 on Version 3  
 
